@@ -29,7 +29,7 @@ li {
 }
 
 .grid {
-  width: 70vw;
+  width: 45vw;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   box-shadow: var(--grayish-blue) 0rem 0.2rem 1rem 0rem;
